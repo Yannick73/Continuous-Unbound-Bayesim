@@ -1,0 +1,34 @@
+As found in an old Distribution part of Maximilians Manuscript
+
+Normal
+
+Student-t
+
+Skew-Normal
+
+Cauchy
+
+CauchyAsymmetric Laplace
+% For example, used in quantile regression.
+
+Exponentially modified Gaussian (ExGaussian)
+% Common for response time modeling although not strictly respective the lower bound of zero. In the field of cognitive modeling, we may find additional interesting distributions for example for response times.
+
+Gumbel
+% https://www.sciencedirect.com/topics/engineering/gumbel-distribution for applications
+
+
+
+Found in Wikipedia, which makes sense (two parameter and mean/median)
+https://en.wikipedia.org/wiki/List_of_probability_distributions
+
+Generalized extreme value distribution (???)
+https://en.wikipedia.org/wiki/Generalized_extreme_value_distribution 2 parameters (w/o location), median
+
+Laplace
+1 parameter plus location, mean and median are location?
+https://en.wikipedia.org/wiki/Laplace_distribution
+
+Logistic
+1 parameter plus location, mean and median are location?
+https://en.wikipedia.org/wiki/Logistic_distribution
